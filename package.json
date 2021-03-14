@@ -1,0 +1,15 @@
+{
+  "id": "smartermail",
+  "name": "SmarterMail",
+  "version": "1.0.0",
+  "description": "SmarterMail",
+  "main": "index.js",
+  "author": "JRock <helpdesk@upandrunning.hk",
+  "license": "AGPL-3.0",
+  "config": {
+    "hasCustomUrl": true,
+    "hasNotificationSound": true,
+    "hasIndirectMessages": false,
+    "message": "Welcome to the SmarterMail Ferdi Service"
+  }
+}
